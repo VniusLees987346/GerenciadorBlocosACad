@@ -1,0 +1,55 @@
+C:\Users\Dasio.AUTOENGE\Documents\Visual Studio 2008\Projects\Gerenciador De Blocos\Gerenciador De Blocos\bin\Debug\Gerenciador De Blocos.pdb
+C:\Users\Dasio.AUTOENGE\Documents\Visual Studio 2008\Projects\Gerenciador De Blocos\Gerenciador De Blocos\bin\Debug\Gerenciador De Blocos.xml
+C:\Users\Dasio.AUTOENGE\Documents\Visual Studio 2008\Projects\Gerenciador De Blocos\Gerenciador De Blocos\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Dasio.AUTOENGE\Documents\Visual Studio 2008\Projects\Gerenciador De Blocos\Gerenciador De Blocos\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Dasio.AUTOENGE\Documents\Visual Studio 2008\Projects\Gerenciador De Blocos\Gerenciador De Blocos\obj\Debug\Gerenciador De Blocos.vbproj.GenerateResource.Cache
+C:\Users\Dasio.AUTOENGE\Documents\Visual Studio 2008\Projects\Gerenciador De Blocos\Gerenciador De Blocos\obj\Debug\Gerenciador De Blocos.xml
+C:\Users\Dasio.AUTOENGE\Documents\Visual Studio 2008\Projects\Gerenciador De Blocos\Gerenciador De Blocos\obj\Debug\Gerenciador De Blocos.pdb
+C:\Users\Dasio.AUTOENGE\Documents\Visual Studio 2008\Projects\Gerenciador De Blocos\Gerenciador De Blocos\obj\Debug\WindowsApplication1.TelaClasse.resources
+C:\Users\Dasio.AUTOENGE\Documents\Visual Studio 2008\Projects\Gerenciador De Blocos\Gerenciador De Blocos\obj\Debug\WindowsApplication1.TelaNatureza.resources
+C:\Users\Dasio.AUTOENGE\Documents\Visual Studio 2008\Projects\Gerenciador De Blocos\Gerenciador De Blocos\obj\Debug\WindowsApplication1.TelaSimbolos.resources
+C:\Users\Dasio.AUTOENGE\Documents\Visual Studio 2008\Projects\Gerenciador De Blocos\Gerenciador De Blocos\obj\Debug\Gerenciador De Blocos.vbproj.ResolveComReference.cache
+C:\Users\Dasio.AUTOENGE\Documents\Visual Studio 2008\Projects\Gerenciador De Blocos\Gerenciador De Blocos\bin\Debug\acdbmgd.dll
+C:\Users\Dasio.AUTOENGE\Documents\Visual Studio 2008\Projects\Gerenciador De Blocos\Gerenciador De Blocos\bin\Debug\acmgd.dll
+C:\Users\Dasio.AUTOENGE\Documents\Visual Studio 2008\Projects\Gerenciador De Blocos\Gerenciador De Blocos\bin\Debug\AdWindows.dll
+C:\Users\Dasio.AUTOENGE\Documents\Visual Studio 2008\Projects\Gerenciador De Blocos\Gerenciador De Blocos\bin\Debug\en-US\AdWindows.resources.dll
+C:\Users\Dasio.AUTOENGE\Documents\Visual Studio 2008\Projects\Gerenciador De Blocos\Gerenciador De Blocos\bin\Debug\en-US\acdbmgd.resources.dll
+C:\Users\Dasio.AUTOENGE\Documents\Visual Studio 2008\Projects\Gerenciador De Blocos\Gerenciador De Blocos\bin\Debug\Gerenciador De Blocos.dll
+C:\Users\Dasio.AUTOENGE\Documents\Visual Studio 2008\Projects\Gerenciador De Blocos\Gerenciador De Blocos\obj\Debug\Gerenciador De Blocos.dll
+C:\Users\Vinicius Lemes\Documents\Visual Studio 2008\Projects\Gerenciador De Blocos\Gerenciador De Blocos\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Vinicius Lemes\Documents\Visual Studio 2008\Projects\Gerenciador De Blocos\Gerenciador De Blocos\obj\Debug\Gerenciador De Blocos.vbproj.ResolveComReference.cache
+C:\Users\Vinicius Lemes\Documents\Visual Studio 2008\Projects\Gerenciador De Blocos\Gerenciador De Blocos\obj\Debug\WindowsApplication1.TelaClasse.resources
+C:\Users\Vinicius Lemes\Documents\Visual Studio 2008\Projects\Gerenciador De Blocos\Gerenciador De Blocos\obj\Debug\WindowsApplication1.TelaNatureza.resources
+C:\Users\Vinicius Lemes\Documents\Visual Studio 2008\Projects\Gerenciador De Blocos\Gerenciador De Blocos\obj\Debug\WindowsApplication1.TelaSimbolos.resources
+C:\Users\Vinicius Lemes\Documents\Visual Studio 2008\Projects\Gerenciador De Blocos\Gerenciador De Blocos\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Vinicius Lemes\Documents\Visual Studio 2008\Projects\Gerenciador De Blocos\Gerenciador De Blocos\obj\Debug\Gerenciador De Blocos.vbproj.GenerateResource.Cache
+C:\Users\Vinicius Lemes\Documents\Visual Studio 2008\Projects\Gerenciador De Blocos\Gerenciador De Blocos\obj\Debug\Gerenciador De Blocos.xml
+C:\Users\Vinicius Lemes\Documents\Visual Studio 2008\Projects\Gerenciador De Blocos\Gerenciador De Blocos\obj\Debug\Gerenciador De Blocos.pdb
+C:\Users\Vinicius Lemes\Documents\Visual Studio 2008\Projects\Gerenciador De Blocos\Gerenciador De Blocos\bin\Debug\Gerenciador De Blocos.pdb
+C:\Users\Vinicius Lemes\Documents\Visual Studio 2008\Projects\Gerenciador De Blocos\Gerenciador De Blocos\bin\Debug\Gerenciador De Blocos.xml
+C:\Users\Vinicius Lemes\Documents\Visual Studio 2008\Projects\Gerenciador De Blocos\Gerenciador De Blocos\bin\Debug\acdbmgd.dll
+C:\Users\Vinicius Lemes\Documents\Visual Studio 2008\Projects\Gerenciador De Blocos\Gerenciador De Blocos\bin\Debug\acmgd.dll
+C:\Users\Vinicius Lemes\Documents\Visual Studio 2008\Projects\Gerenciador De Blocos\Gerenciador De Blocos\bin\Debug\AcCui.dll
+C:\Users\Vinicius Lemes\Documents\Visual Studio 2008\Projects\Gerenciador De Blocos\Gerenciador De Blocos\bin\Debug\AcTcMgd.dll
+C:\Users\Vinicius Lemes\Documents\Visual Studio 2008\Projects\Gerenciador De Blocos\Gerenciador De Blocos\bin\Debug\AdWindows.dll
+C:\Users\Vinicius Lemes\Documents\Visual Studio 2008\Projects\Gerenciador De Blocos\Gerenciador De Blocos\bin\Debug\AcMr.dll
+C:\Users\Vinicius Lemes\Documents\Visual Studio 2008\Projects\Gerenciador De Blocos\Gerenciador De Blocos\bin\Debug\AcWindows.dll
+C:\Users\Vinicius Lemes\Documents\Visual Studio 2008\Projects\Gerenciador De Blocos\Gerenciador De Blocos\bin\Debug\AcDx.dll
+C:\Users\Vinicius Lemes\Documents\Visual Studio 2008\Projects\Gerenciador De Blocos\Gerenciador De Blocos\bin\Debug\AcMNUParser.dll
+C:\Users\Vinicius Lemes\Documents\Visual Studio 2008\Projects\Gerenciador De Blocos\Gerenciador De Blocos\bin\Debug\AcDxPublishUi.dll
+C:\Users\Vinicius Lemes\Documents\Visual Studio 2008\Projects\Gerenciador De Blocos\Gerenciador De Blocos\bin\Debug\ManagedMC3.dll
+C:\Users\Vinicius Lemes\Documents\Visual Studio 2008\Projects\Gerenciador De Blocos\Gerenciador De Blocos\bin\Debug\AdMigLib.dll
+C:\Users\Vinicius Lemes\Documents\Visual Studio 2008\Projects\Gerenciador De Blocos\Gerenciador De Blocos\bin\Debug\MyAutoCAD.dll
+C:\Users\Vinicius Lemes\Documents\Visual Studio 2008\Projects\Gerenciador De Blocos\Gerenciador De Blocos\bin\Debug\en-US\AdWindows.resources.dll
+C:\Users\Vinicius Lemes\Documents\Visual Studio 2008\Projects\Gerenciador De Blocos\Gerenciador De Blocos\bin\Debug\en-US\AcMr.resources.dll
+C:\Users\Vinicius Lemes\Documents\Visual Studio 2008\Projects\Gerenciador De Blocos\Gerenciador De Blocos\bin\Debug\en-US\AcWindows.resources.dll
+C:\Users\Vinicius Lemes\Documents\Visual Studio 2008\Projects\Gerenciador De Blocos\Gerenciador De Blocos\bin\Debug\en-US\AcDx.resources.dll
+C:\Users\Vinicius Lemes\Documents\Visual Studio 2008\Projects\Gerenciador De Blocos\Gerenciador De Blocos\bin\Debug\en-US\acdbmgd.resources.dll
+C:\Users\Vinicius Lemes\Documents\Visual Studio 2008\Projects\Gerenciador De Blocos\Gerenciador De Blocos\bin\Debug\en-US\AcDxPublishUi.resources.dll
+C:\Users\Vinicius Lemes\Documents\Visual Studio 2008\Projects\Gerenciador De Blocos\Gerenciador De Blocos\bin\Debug\en-US\MyAutoCAD.resources.dll
+C:\Users\Vinicius Lemes\Documents\Visual Studio 2008\Projects\Gerenciador De Blocos\Gerenciador De Blocos\obj\Debug\WindowsApplication1.DesenhaSimbolo.resources
+C:\Users\Vinicius Lemes\Documents\Visual Studio 2008\Projects\Gerenciador De Blocos\Gerenciador De Blocos\obj\Debug\Interop.StdType.dll
+C:\Users\Vinicius Lemes\Documents\Visual Studio 2008\Projects\Gerenciador De Blocos\Gerenciador De Blocos\bin\Debug\Interop.StdType.dll
+C:\Users\Vinicius Lemes\Documents\Visual Studio 2008\Projects\Gerenciador De Blocos\Gerenciador De Blocos\bin\Debug\Gerenciador_de_ Blocos.accdb
+C:\Users\Vinicius Lemes\Documents\Visual Studio 2008\Projects\Gerenciador De Blocos\Gerenciador De Blocos\bin\Debug\Gerenciador De Blocos.dll
+C:\Users\Vinicius Lemes\Documents\Visual Studio 2008\Projects\Gerenciador De Blocos\Gerenciador De Blocos\obj\Debug\Gerenciador De Blocos.dll

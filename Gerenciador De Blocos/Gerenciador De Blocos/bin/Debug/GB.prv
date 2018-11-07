@@ -1,0 +1,12 @@
+;;; Visual LISP make file [V1.0] GB saved to:[C:/Users/Vinicius Lemes/Documents/Visual Studio 2008/Projects/Gerenciador De Blocos/Gerenciador De Blocos/bin/Debug] at:[3/16/12] 
+(PRV-DEF (:target . "GB.VLX")
+	 (:active-x . T)
+	 (:separate-namespace)
+	 (:protected . T)
+	 (:load-file-list (:lsp "k"))
+	 (:require-file-list)
+	 (:ob-directory)
+	 (:tmp-directory)
+	 (:optimization . st)
+)
+;; EOF

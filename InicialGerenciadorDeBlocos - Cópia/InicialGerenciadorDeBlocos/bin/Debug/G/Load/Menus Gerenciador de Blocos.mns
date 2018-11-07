@@ -1,0 +1,49 @@
+***MENUGROUP=GERBLOCOS
+***POP1
+[Gerenciar]	
+[]
+	[Natureza]^c^cChamTelaNatureza
+	[Classe]^c^cChamTelaClasse
+	[Simbolo]^c^cChamTelaSimbolos
+	[Propriedade]
+[]
+[]
+
+***POP2
+[Utilitários]
+
+[]
+
+[->QUANTITATIVOS]
+[UM Simbolo/bloco]^c^c(QuantSimbEspecifico)
+[<-VÁRIOS Simbolos/blocos]^c^c(quantSimSelecionado)
+
+[]
+[]
+
+[->CÁLCULOS]
+[Distância entre dois pontos]^c^cGB_distancia
+[Quantidades de Cliques na Tela]^c^cGB_QuantCliques
+[Quantidade de entidades selecionadas]^c^cGB_QuantEntidadesSel
+[Área de uma entidade]^c^cGB_AreaEnt
+[<-Comprimento de uma ou mais entidades]^c^cGB_TOTLEN
+
+[]
+[]
+
+[--]
+[Criar Bloco]^c^c(CriaBloco)
+[Inserir Bloco]^c^c(InsereBloco)
+[Mudar Ponto Base do bloco]^c^cBP
+[Alinhar bloco a uma linha]^c^cAlinhaBloco
+[Escalar Objetos ]^c^cEscalaObj
+[Descarregar Menu Gerenciador de Blcoos]^c^c(MenuUnload_)
+[]
+[]
+
+***POP3
+[Desenhar]
+[]
+[Simbolos]^c^cChamTelaDesenhaSim
+[]
+[]
